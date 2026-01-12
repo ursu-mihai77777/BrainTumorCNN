@@ -16,8 +16,8 @@ Provide model interpretability through feature map visualization
 Deploy the trained model as an interactive web application using Hugging Face Spaces
 
 🗂 Dataset
-https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset
 Type: Brain MRI images
+https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset
 
 Classes:
 
