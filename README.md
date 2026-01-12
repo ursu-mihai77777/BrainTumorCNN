@@ -131,7 +131,7 @@ Deeper layers focus on abstract, tumor-relevant regions
 
 This analysis improves transparency and trust in the model’s decisions.
 
-🌐 Web Deployment (Hugging Face Spaces)
+🌐 Web Deployment (Hugging Face Spaces) : https://huggingface.co/spaces/mehigh77777/CNN_Brain_tumor
 
 The trained model is deployed as an interactive web application using Gradio.
 
